@@ -18,7 +18,7 @@
 #### 홍보를 본 업체 영입률
 #### 한달 후 제휴 종료할 업체 비율 
 #### 2달 이상 사용한 업체가 제휴종료할 비율
-
+## 
 
 ### 예시 시뮬레이션 결과 
 ![Site Label](https://github.com/cch230/Duration-to-BEP-using-the-SEIR-Model-Infectious-Disease-Symptom-Model-/blob/master/Figure_1.png)
