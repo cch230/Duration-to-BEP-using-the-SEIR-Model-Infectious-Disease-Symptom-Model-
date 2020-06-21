@@ -1,8 +1,8 @@
 # Break-Even Point Algolism
 # 손익 분기점 알고리즘
 
-SEIR(전염병 감염 모델)모델을 이용한 손익분기점(BEP)까지 기간을 구하였습니다.
-The period until the break-even point (BEP) using the SEIR (Infectious Disease Infection Model) was calculated.
+## SEIR(전염병 감염 모델)모델을 이용한 손익분기점(BEP)까지 기간을 구하였습니다.
+## The period until the break-even point (BEP) using the SEIR (Infectious Disease Infection Model) was calculated.
 
 ## 최철환
 ## Representative email : cch01024857239@gmail.com
