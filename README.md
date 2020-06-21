@@ -21,5 +21,5 @@ R 사용을 중단한 업체.
 
 # 예시 시뮬레이션 결과 
 
-[![Site Label](https://github.com/cch230/Landing_page/blob/master/site.png)]
+![Site Label](https://github.com/cch230/Duration-to-BEP-using-the-SEIR-Model-Infectious-Disease-Symptom-Model-/blob/master/Figure_1.png)]
 
