@@ -21,5 +21,5 @@ The period until the break-even point (BEP) using the SEIR (Infectious Disease I
 
 
 ### 예시 시뮬레이션 결과 
-![Site Label](https://github.com/cch230/Duration-to-BEP-using-the-SEIR-Model-Infectious-Disease-Symptom-Model-/blob/master/Figure_1.png)]
+![Site Label](https://github.com/cch230/Duration-to-BEP-using-the-SEIR-Model-Infectious-Disease-Symptom-Model-/blob/master/Figure_1.png)
 
