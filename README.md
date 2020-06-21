@@ -8,18 +8,18 @@ The period until the break-even point (BEP) using the SEIR (Infectious Disease I
 ## Representative email : cch01024857239@gmail.com
 
 ## SEIR
-S STP분석에 의한 타켓 업체. 
-E 홍보에 노출된 업체 
-I 초기영업으로 제휴된 업체.
-R 사용을 중단한 업체.
+#### S STP분석에 의한 타켓 업체. 
+#### E 홍보에 노출된 업체 
+#### I 초기영업으로 제휴된 업체.
+#### R 사용을 중단한 업체.
 
 ## Weights 
-홍보 접촉율 
-홍보를 본 업체 영입률
-한달 후 제휴 종료할 업체 비율 
-2달 이상 사용한 업체가 제휴종료할 비율
+#### 홍보 접촉율 
+#### 홍보를 본 업체 영입률
+#### 한달 후 제휴 종료할 업체 비율 
+#### 2달 이상 사용한 업체가 제휴종료할 비율
+
 
 ### 예시 시뮬레이션 결과 
-
 ![Site Label](https://github.com/cch230/Duration-to-BEP-using-the-SEIR-Model-Infectious-Disease-Symptom-Model-/blob/master/Figure_1.png)]
 
